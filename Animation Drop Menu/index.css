@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color: #9b1d1d;
+    background-color: #1e1e1e;
     background-size: cover;
     height: 100vh;
     font-family: "Raleway", sans-serif;
@@ -23,7 +23,7 @@ ul {
 }
 
 nav {
-    height: 40px;
+    height: 30px;
     margin: 40px auto;
     background-color: #343434b3;
     text-align: center;
