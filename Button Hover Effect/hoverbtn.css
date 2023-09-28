@@ -40,3 +40,11 @@ body {
     top: 0;
     transition: all 0.3s;
 }
+
+.name-description, a {
+    position: relative;
+    z-index: 9999;
+    text-decoration: none !important;
+    font-size: 18px;
+    font-family: 'poppins', sans-serif;
+}
