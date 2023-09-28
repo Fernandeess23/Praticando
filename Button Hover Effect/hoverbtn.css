@@ -48,3 +48,14 @@ body {
     font-size: 18px;
     font-family: 'poppins', sans-serif;
 }
+
+.btn-icon::after {
+    content: "";
+    width: 0;
+    height: 0;
+    border-top: 44px solid white;
+    border-right: 40px solid transparent;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
