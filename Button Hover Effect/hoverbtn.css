@@ -77,4 +77,6 @@ body {
     color: #fff;
 }
 
-
+.description-btn:hover {
+    color: #fff !important;
+}
