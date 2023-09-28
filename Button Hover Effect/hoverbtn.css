@@ -59,3 +59,22 @@ body {
     top: 0px;
     left: 0px;
 }
+
+.description-btn:hover .btn-icon {
+    width: 100%;
+    border-radius: 30px;
+}
+
+.description-btn:hover .btn-icon::after {
+    display: none;
+    opacity: 0.1;
+}
+
+.btn-icon i {
+    position: absolute;
+    right: 25px;
+    top: 15px;
+    color: #fff;
+}
+
+
