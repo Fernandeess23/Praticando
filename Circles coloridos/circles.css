@@ -33,3 +33,13 @@
         }
     }
 }
+
+@keyframes move {
+    to {
+        left: 96cqi;
+    }
+}
+
+body {
+    margin: 4ch;
+}
