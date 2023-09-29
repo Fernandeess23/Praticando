@@ -16,4 +16,5 @@ function render(itens, offset = 0, color = "red") {
         ${rad * index + offset}deg;--_del:${delay * index}
         ms;"></i>`
     )
+    .join("");
 }
