@@ -1,0 +1,20 @@
+body {
+    display: flex;
+    justify-content: center;
+    padding: 100px;
+}
+
+.elementoPai {
+    height: 500px;
+    width: 500px;
+    background-color: green;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.elementoFilho {
+    height: 200px;
+    width: 200px;
+    background-color: red;
+}
